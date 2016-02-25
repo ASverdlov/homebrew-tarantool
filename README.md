@@ -1,6 +1,8 @@
 # Tarantool Tap Repository for Homebrew
 
-[![For tarantool.](https://avatars2.githubusercontent.com/u/2344919?v=2&s=250)](http://tarantool.org)
+<a href="http://tarantool.org">
+  <img src="https://avatars2.githubusercontent.com/u/2344919?v=2&s=250" align="right">
+</a>
 
 These formulæ provide basic libraries/rocks that may be needed to build extensions
 or applications for/using Tarantool.
