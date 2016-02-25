@@ -3,6 +3,7 @@ class Msgpuck < Formula
   homepage "https://github.com/rtsisyk/msgpuck/"
   url "https://github.com/rtsisyk/msgpuck/archive/1.0.2.tar.gz"
   sha256 "0c818dfa10b5f09fe675ac2693bbf09300af0cc4dc948d0e4ea42b22245ed605"
+  head "https://github.com/tarantool/msgpuck.git", :shallow => false
 
   depends_on "cmake" => :build
 
