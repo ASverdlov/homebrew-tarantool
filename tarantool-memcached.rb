@@ -7,6 +7,7 @@ class TarantoolMemcached < Formula
 
   depends_on "cmake" => :build
   depends_on "msgpuck" =>:build
+  depends_on "tarantool"
   depends_on "small"
 
   def install
